@@ -38,7 +38,7 @@ To run the project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Forest-fire-Prediction.git
+git clone https://github.com/manishh79/Forest-fire-Prediction.git
 ```
 
 2. Install the required dependencies:
@@ -67,8 +67,8 @@ The project has the following dependencies:
 
 ## Thesis and PPT
 
-<a href="https://drive.google.com/file/d/1A63Yje8k_bBIF28yk-TtsetzkNFyxdta/view?usp=drive_link" > Thesis </a>
+<a href="https://drive.google.com/file/d/1UEIwt3URShOrgDMra-A5_Nzjr7_BYihI/view?usp=sharing" > Thesis </a>
 <br>
-<a href="https://docs.google.com/presentation/d/1wDwyLZozPP-dD6Z_RNYv10c-h-C7X0MS/edit?usp=drive_link&ouid=110757473140388247684&rtpof=true&sd=true" > PPT </a> 
+<a href="https://docs.google.com/presentation/d/1P6jnLl5cOGUDFz-xeTXkGvjIueU9KCUr/edit?usp=sharing&ouid=116454348596110209282&rtpof=true&sd=true" > PPT </a> 
 
 ##
