@@ -38,7 +38,7 @@ To run the project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/manishh79/Forest-fire-Prediction.git
+git clone https://github.com/manishh79/Forest-Fire-Prediction-Model.git
 ```
 
 2. Install the required dependencies:
